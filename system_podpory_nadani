@@ -1,0 +1,118 @@
+{
+  "app": {
+    "title": "Systém podpory nadání ve školách",
+    "subtitle": "Sebehodnocení školy - část pro pedagogy",
+    "language": "cs",
+    "scale": {
+      "min": 0,
+      "max": 5,
+      "label": "Vyberte úroveň 0-5"
+    }
+  },
+  "areas": [
+    {
+      "id": 1,
+      "title": "Prostředí školy",
+      "description": "Cílem této otázky je uvědomit si, kdo všechno a do jaké hloubky se ve škole zabývá podporou nadaných žáků, zda je tato práce koncepční a do jaké míry je tato koncepce sdílená.",
+      "levels": {
+        "0": "Nevíme o nikom, kdo by se ve škole podporou nadání zabýval.",
+        "1": "O významu podpory nadaných dětí je přesvědčena úzká skupina nadšenců.",
+        "2": "O významu podpory nadaných dětí je přesvědčeno vedení školy a velká část pedagogů.",
+        "3": "V pedagogickém sboru jsme si společně stanovili vizi a hodnoty školy, jež zahrnují i individuální podporu žáků.",
+        "4": "Na stanovení hodnot a vize se podíleli také zaměstnanci, žáci, rodiče.",
+        "5": "Pravidelně reflektujeme a aktualizujeme naplňování vize a hodnot školy."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Identifikace nadaných žáků a jejich potřeb",
+      "description": "V této otázce se zamyslete, jak jednotliví pedagogové přistupují k identifikaci nadaných žáků, nakolik spolupracují a seznamují se se zkušenostmi a trendy v jiných školách.",
+      "levels": {
+        "0": "Ve škole nemáme nadané žáky. Z našeho pohledu potřebují všichni žáci totéž.",
+        "1": "Pedagogický sbor se při identifikaci spoléhá na identifikaci PPP z iniciativy rodičů a pedagogové dodržují doporučení poradnou stanovená.",
+        "2": "Velká část pedagogů zvládá nominovat výrazně nadané žáky. S pomocí ŠPP jim nastavují podpůrná opatření 1. stupně a v případě potřeby vyšších podpůrných stupňů se obracejí na PPP.",
+        "3": "Pedagogové a pracovníci ŠPP aktivně vyhledávají nadprůměrné žáky. Společně hledají pro každého z nich vyhovující formy podpory.",
+        "4": "Většinu nadaných na škole nacházíme díky plošnému screeningu, učitelům i ŠPP zůstává možnost dovyhledávat další. Součástí péče jsou pravidelné rozhovory s žáky o jejich potřebách a spokojenosti.",
+        "5": "Identifikace nadaných je zapracovaná do systému školy. Na každou nově objevenou potřebu vyhledáváme takové opatření, které by bylo do budoucna dostupné všem žákům s touto potřebou."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Vzdělávání pedagogů",
+      "description": "Jak probíhá vzdělávání pedagogů? Je náhodné, nebo systematické? Sdílejí zkušenosti mezi sebou?",
+      "levels": {
+        "0": "Pedagogové podporující nadání nemají na naší škole dosud žádnou podporu.",
+        "1": "Pedagogický sbor je podporován v dalším vzdělávání dle vlastního uvážení, nabídka obsahuje i programy k podpoře nadání.",
+        "2": "Většina pedagogického sboru prošla nějakým vzděláváním k podpoře nadání a má dostatek dalších zdrojů pro samostudium problematiky. Koordinátor sleduje a zprostředkuje novinky a trendy.",
+        "3": "Učitelé organizovaně sdílí poznatky ze svého dalšího vzdělávání, řeší spolu náročné případy a situace, mají vždy na koho se obrátit. Systém chrání učitele před vyhořením.",
+        "4": "Každý učitel má svůj plán profesního rozvoje, který pokrývá také ochranu duševního zdraví a témata z oblasti podpory nadání. Tento plán je konzultován, vyhodnocován a aktualizován.",
+        "5": "Součástí profesního rozvoje je individuální péče o každého z pedagogů - ať už formou mentoringu, koučinku, intervize či supervize. Učitelé pracují na svých mentorských dovednostech. Své zkušenosti sdílejí."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Koordinace podpory nadání",
+      "description": "Máte ve sboru vyčleněného 1-2 koordinátory podpory nadání, kteří se zabývají podporou a vzděláváním pedagogů systematicky? Máte školní koncepci a kdo se na její tvorbě podílí?",
+      "levels": {
+        "0": "Škola nemá koordinátora podpory nadání (nebo je jmenován je formálně). Je to na každém pedagogovi, jaké metody a přístupy použije, jaké vzdělání si najde.",
+        "1": "Máme ve sboru nadšence, který je faktickým koordinátorem podpory nadání, ačkoli nemá významnou podporu od ostatních. Zajišťuje hlavně péči o „své“ žáky (ve své třídě, svém předmětu).",
+        "2": "Máme schopného koordinátora podpory nadání, který je respektován kolegy a má dosah na všechny žáky. (Nemá však svůj úkol nijak zohledněn v náplni práce, úvazku ani odměnách.)",
+        "3": "Naši koordinátoři podpory nadání se účastní vzdělávacích aktivit k podpoře nadání, mají na svou práci vyhrazen dostatek času a prostředků. Jsme členy krajské sítě podpory nadání.",
+        "4": "Máme sice koordinátora/podpory nadání, školní koncepci vytváří celý pedagogický sbor, podílí se na vyhodnocení a aktualizaci koncepce, pedagogové si vyměňují zkušenosti.",
+        "5": "Koordinace součástí systému podpory nadání je vestavěná v systému školy, je jasně čitelná z dokumentů k podpoře nadání. Každý ví, na koho se obrátit. Sdílíme zkušenosti s dalšími školami."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Nadaný žák - praxe",
+      "description": "Do jaké míry s nadanými pracujete v rozvoji jejich specifických nadání?",
+      "levels": {
+        "0": "Pro práci s nadanými žáky zodpovědně připravujeme podpůrná opatření, PLPP a IVP v souladu s doporučením PPP (máme ve škole identifikované jednotlivce).",
+        "1": "Pro nadané žáky vyhledáváme soutěže, kterých se mohou účastnit a na tyto soutěže žáky připravujeme; jedná se o jednotlivce.",
+        "2": "Pro rozvoj a podporu nadání identifikuje ŠPP typy nadání u žáků podle konkrétní metodologie (např. Teorie vícenásobných inteligencí podle Gardnera), učitelé pak s tím specificky pracují (např. přípravy podle Gardnerovy typologie, osobní portfolia, individuální plány podpory).",
+        "3": "Podporujeme nadané žáky ve výuce i mimo výuku (klub nadaných žáků, exkurze, tipy na volnočasové aktivity).",
+        "4": "Bez ohledu na to, zda se ve třídě vyskytují nadaní žáci, obohacujeme pro rozvoj a podporu nadání výuku - o zajímavé metody, zajímavé zdroje informací apod., podporujeme spolupráci, peer aktivity, aktivity zaměřené na sebepojetí žáka apod.",
+        "5": "U žáků řešíme péči o jejich potřeby komplexně a rozvíjíme harmonicky jejich potenciál. Kromě rozvoje jejich myšlení se zaměřujeme na kreativitu, wellbeing, sebepojetí, společenskou odpovědnost a kvalitu života. Kombinujeme všechny výše uvedené přístupy a vždy se snažíme najít něco navíc a máme zkušenosti, o které se můžeme podělit."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Úroveň péče a podpory z hlediska žáka",
+      "description": "Pokuste se podívat na stupeň podpory nadaného žáka z pohledu jednotlivých nadaných žáků ve škole.",
+      "levels": {
+        "0": "Ke všem žákům přistupujeme stejně. Podporujeme žáky, aby dosahovali ve všem standardní úrovně a nevyčnívali.",
+        "1": "Nadaní žáci získávají pochvaly za účast v soutěžích. Pokud mají problémy, věnuje se jim učitel a příslušný pracovník PPP. Učitelé některých předmětů podporují nadějné žáky „na vlastní pěst“.",
+        "2": "Třídní učitelé se většinou aktivně zajímají o nadání, talenty a zájmy svých žáků. Pracovníci ŠPP jsou jim oporou při zvládání specifik žáků s nadprůměrnostmi. Jsou k dispozici učitelům i žákům.",
+        "3": "Žáci vědí, že mohou komunikovat své vyšší cíle a potřeby s kýmkoli ze školy. Je na individuální domluvě, do jaké míry jim pedagogové vyjdou vstříc. Pokyny ŠPP, ŠPZ a vedení jsou respektovány.",
+        "4": "Nadstandardní potřeby žáků škola aktivně zjišťuje (např. pravidelným dotazováním). Vyhledává a testuje způsoby uspokojení potřeb. Evaluuje svoji úspěšnost v naplňování potřeb nadaných žáků.",
+        "5": "Prostředí školy je nastaveno tak, že umožňuje rozvoj a podporu individuálních zájmů nadaných žáků. Škola testuje dostupná řešení a úspěšně integruje do svého systému podpory nadání."
+      }
+    },
+    {
+      "id": 7,
+      "title": "Spolupráce a mimoškolní aktivity",
+      "description": "Zajímá nás, co dělají nadaní žáci po škole. Umíme jim nabídnout další aktivity, zaujmout je, přispívat k jejich dalšímu rozvoji?",
+      "levels": {
+        "0": "Mimoškolní aktivity necháváme zcela na rodičích.",
+        "1": "Organizujeme kroužky, které vycházejí z toho, jaký typ nadání ve škole identifikujeme, spolupracujeme pravidelně s MENSOU a máme klub nadaných dětí.",
+        "2": "Náš klub nadaných dětí spolupracuje s dalšími institucemi jako jsou vysoké školy, volnočasová centra, žáci navštěvují stáže, do mimoškolních aktivit zapojujeme i rodiče.",
+        "3": "Kvalitní vztahy budujeme systematicky, se spolupracujícími institucemi i rodiči se setkáváme pravidelně na námi pořádaných akcích.",
+        "4": "Rodiče i instituce jsou nedílnou součástí systému podpory nadání ve škole. Vytváříme prostor pro jejich setkávání na půdě školy, máme dlouhodobý plán spolupráce, rodiče i zástupci spolupracujících institucí jsou zdrojem inspirace, darů aj. finanční / dobrovolné pomoci.",
+        "5": "Kromě kroužků, klubu a spolupráce s institucemi zapojujeme do volnočasových aktivit i samotné žáky - jsou nositeli návrhů i obsahu volnočasových aktivit (např. prostřednictvím hlasování, školního parlamentu, participativního rozpočtu apod.)"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Prostředí tříd a třídních kolektivů",
+      "description": "Nadaný žák se nemusí často cítit ve škole dobře. Je to z mnoha důvodů. Může se nudit, může se cítit nepřijatý kolektivem i pedagogem, může být tak přecitlivělý, že spousta reakcí je na ně příliš a propadá únavě, může mít dokonce blízko k depresím. V každém případě každý z nás potřebuje být přijatý a oceněný. Jak s tím pracujeme?",
+      "levels": {
+        "0": "Problematiku nadaných žáků nijak ve třídách nevyzdvihujeme a nekomunikujeme, bereme je jako každého jiného žáka.",
+        "1": "Děláme si sami diagnostiku toho, co žáci (nejen nadaní) potřebují, konzultujeme to s pracovníky ŠPP, ti se pak žákům věnují individuálně.",
+        "2": "Pedagogové zařazují na třídnických hodinách aktivity či přednášky zaměřené na specifika žáků, spolupracují s metodikem prevence a tyto aktivity vyhodnocujeme, aby nedocházelo v kolektivech k nežádoucím jevům.",
+        "3": "Děláme pro celé kolektivy školení/aktivity na téma šikany, well-being, aktivity na přijetí odlišností apod., tyto aktivity vyhodnocujeme v rámci celé školy.",
+        "4": "Všichni pedagogové se seznamují s tím, jaká specifika může prožívat nadaný žák, jak je identifikovat a jak je komunikovat ve třídních kolektivech, v případě potřeby konzultují se ŠPP další aktivity.",
+        "5": "Pedagogové umí diagnostikovat a komunikovat problematiku odlišných žáků v třídních kolektivech, dokáží vyzdvihnout specifika jako jejich výhodu, a včas dokážou poskytnout specifickou podporu (resp. umí najít pomoc) všem žákům bez ohledu na to, s jakými problémy se žák potýká."
+      }
+    }
+  ]
+}
